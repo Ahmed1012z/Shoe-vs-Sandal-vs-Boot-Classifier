@@ -24,7 +24,7 @@ This model was trained on a dataset of **15,000+ real-world images** to classify
 
 👤 Author
 Ahmed Abdelhady
-Deep Learning & AI Enthusiast
+Machine learning Engineer
 🔗 LinkedIn Profile <www.linkedin.com/in/ahmed-abdelhady-65b2442b5>
 
 
